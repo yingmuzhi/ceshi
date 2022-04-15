@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T03:31:49.652Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="wBMadjTyzk0X9YW3h4JR" version="17.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T03:43:46.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="19EWAHrQnNNogvb9X2Ov" version="17.2.2" type="github">
   <diagram id="PsFtdZEkL7IugEdtLUar" name="Page-1">
-    <mxGraphModel dx="975" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aiKESZ3UolnFo12rYkqo-13" value="根除阶段" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="3470" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="3340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-9" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aiKESZ3UolnFo12rYkqo-15" target="MITGSd_U6Hve-jwOVmn4-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -181,27 +181,6 @@
             <mxPoint x="490" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-2" target="MITGSd_U6Hve-jwOVmn4-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-2" value="目标：" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="5150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-4" target="MITGSd_U6Hve-jwOVmn4-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-4" value="内容：" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="5150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-6" target="MITGSd_U6Hve-jwOVmn4-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-6" value="输出：" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="5150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-7" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="5150" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-8" value="总结阶段" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="4770" width="120" height="60" as="geometry" />
         </mxCell>
@@ -209,169 +188,121 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-11" value="目标：检查系统，提出建议，协助实施。" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="3370" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="3240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-13" target="MITGSd_U6Hve-jwOVmn4-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-13" value="内容：协助客户检查所有受影响的系统，提出根除的方案建议，并协助客户进行具体 实施。" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="3370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-15" target="MITGSd_U6Hve-jwOVmn4-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520" y="3230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-15" value="输出：提供 XX 项目的《根除方案》" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="3370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-16" value="40" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="3370" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="3240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-18" target="MITGSd_U6Hve-jwOVmn4-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-18" value="目标：风险分析" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="3450" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="3340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-20" target="MITGSd_U6Hve-jwOVmn4-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-20" value="内容：应明确告知客户所采取的根除措施可能带来的风险，并输出告知记录。" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="3450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-22" target="MITGSd_U6Hve-jwOVmn4-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520" y="3340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-22" value="输出：提供 XX 项目《应急响应服务风险告知记录》" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="3440" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-23" value="41" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="3450" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="3335" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-25" target="MITGSd_U6Hve-jwOVmn4-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-25" value="目标：安全事件根除处理" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="3530" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="3435" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-27" target="MITGSd_U6Hve-jwOVmn4-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-27" value="内容：找出导致网络或信息安全事件发生的原 因，并予以彻底消除，及时输出根除证明材料" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="3530" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-29" target="MITGSd_U6Hve-jwOVmn4-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520" y="3425" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-29" value="输出：提供 XX 项目的《事件根除记录》" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="3530" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-30" value="42" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="3530" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="3435" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-32" target="MITGSd_U6Hve-jwOVmn4-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-32" value="目标：使用可信工具根除" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="3610" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="3550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-34" target="MITGSd_U6Hve-jwOVmn4-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-34" value="内容：使用可信的工具进行安全事件的根除处理，不得使用受害系统已有的不可信文件。" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="3610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-36" target="MITGSd_U6Hve-jwOVmn4-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520" y="3540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-36" value="输出：提供 XX 公司《主要网络安全事件处理工具清单》" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="3600" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-37" value="43" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="3610" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="3545" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-39" target="MITGSd_U6Hve-jwOVmn4-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-39" value="目标：告知恢复方法及风险" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="3760" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="3720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-41" target="MITGSd_U6Hve-jwOVmn4-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-41" value="内容：告知客户网络或信息安全事件的恢复方法及可能存在的风险并输出告知记录" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="3760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-43" target="MITGSd_U6Hve-jwOVmn4-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520" y="3720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-43" value="输出：提供 XX 项目《应急响应服务风险告知记录》" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="3750" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-44" value="44" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="3760" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="3715" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-46" target="MITGSd_U6Hve-jwOVmn4-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-46" value="目标：（若需重建系统时适用该条款）" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="4070" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="4010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-48" target="MITGSd_U6Hve-jwOVmn4-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-48" value="内容：对于不能彻底恢复配置和彻底清除系统上的恶意文件，或不能肯定系统经过根除处理后是否可恢复正常时，应选择重建系统。" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="4070" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-50" target="MITGSd_U6Hve-jwOVmn4-51" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520" y="3985" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-50" value="输出：提供 XX 项目的《重建系统过程记录》" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="4060" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-51" value="45" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="4070" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="4005" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-53" target="MITGSd_U6Hve-jwOVmn4-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-53" value="目标：与客户共同制定系统恢复方案，并帮助客户选择合理恢复方案" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="3870" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="3810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-55" target="MITGSd_U6Hve-jwOVmn4-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-55" value="内容：形成的系统恢复方案及内容。" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="3870" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-57" target="MITGSd_U6Hve-jwOVmn4-58" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520" y="3810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-57" value="输出：提供 XX 项目的《XX 系统恢复方案》" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="3860" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-58" value="50" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="3870" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="3805" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-60" target="MITGSd_U6Hve-jwOVmn4-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-60" value="目标：（若不需重建且恢复系统时适用该条款）" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="4370" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="4350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-62" target="MITGSd_U6Hve-jwOVmn4-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-62" value="内容：应建立 重建系统的应急工作流程及规范，并开 展重建系统的应急演练工作。" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="4370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-64" target="MITGSd_U6Hve-jwOVmn4-65" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520" y="4350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-64" value="输出：提供《重建系统应急工作流程及规范》；提供《重建系统应急演练记录》。" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="4340" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-65" value="49" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="4370" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="4335" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-67" target="MITGSd_U6Hve-jwOVmn4-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -383,16 +314,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-69" value="内容：提供网络或信息安全事件处理报告；提供网络或信息安全方面的建议和意 见，必要时指导和协助客户实施；提供详实的网络与信 息安全事件处理报告，完整展现应急处 理服务的整个过程；告知客户所发生事件可能 涉及到的法律诉讼方面的法律要求或影 响。" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="4530" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-71" target="MITGSd_U6Hve-jwOVmn4-72" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520" y="4460" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-71" value="输出：提供 XX 项目的安全事件处理报告" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="4530" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-72" value="54；55；57；60" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="4530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aiKESZ3UolnFo12rYkqo-15" target="MITGSd_U6Hve-jwOVmn4-60" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -410,148 +335,76 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-76" value="目标：（若需恢复系统时适用该条款）" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="3950" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="3900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-78" target="MITGSd_U6Hve-jwOVmn4-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-78" value="内容：应协助客户按照系统的初始化安全策略恢复系统；" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="3950" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-80" target="MITGSd_U6Hve-jwOVmn4-81" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520" y="3900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-80" value="输出：提供 XX 项目的《重建系统过程记录》" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="3940" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-81" value="46" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="3950" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="3895" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-83" target="MITGSd_U6Hve-jwOVmn4-85" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-83" value="目标：（若需恢复或重建系统时适用该条款）" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="4220" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="4195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-85" target="MITGSd_U6Hve-jwOVmn4-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-85" value="内容：协助 客户验证恢复后的系统是否运行正常， 并确认与原有系统配置保持一致；重建系统前需进行全面的数据备 份，备份的数据要确保是没有被攻击者 改变过的数据；帮助客户为重建后的系统建 立系统快照；帮助客户对重建后的系统进行全面 的安全加固。" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="4220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-87" target="MITGSd_U6Hve-jwOVmn4-88" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520" y="4130" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-87" value="输出：提供 XX 项目的《重建系统过程记录》" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="4210" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-88" value="47；48；51；52" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="4220" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="4190" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-90" target="MITGSd_U6Hve-jwOVmn4-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-90" value="目标：记录事件处理过程并作出分析" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="4720" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="4735" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-92" target="MITGSd_U6Hve-jwOVmn4-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-92" value="内容：保存完整的网络或信息安全事件处理 记录，并对事件处理过程进行总结和分 ；完成项目的网络安全事件处理过 程记录、总结与分析文档，使得网络与信息安全事件 处理记录应具备可追溯性" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="4720" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-94" target="MITGSd_U6Hve-jwOVmn4-95" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520" y="4690" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-94" value="输出：提供 XX 项目的安全事件处理过程记录" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="4710" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-95" value="53；56" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="4720" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-97" target="MITGSd_U6Hve-jwOVmn4-99" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-97" value="目标：" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="5230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-99" target="MITGSd_U6Hve-jwOVmn4-101" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-99" value="内容：" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="5230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-101" target="MITGSd_U6Hve-jwOVmn4-102" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-101" value="输出：" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="5230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-102" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="5230" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="4730" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-104" target="MITGSd_U6Hve-jwOVmn4-106" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-104" value="目标：丰富案例知识库" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="4860" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="4870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-106" target="MITGSd_U6Hve-jwOVmn4-108" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-106" value="内容：对网络与信息安全事件进 行总结和分析后，针对典型案例存入事 件知识库" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="4860" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-108" target="MITGSd_U6Hve-jwOVmn4-109" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520" y="4870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-108" value="输出：提供 XX 公司应急响应案例文档" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="4860" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-109" value="58" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="4860" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="4870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-111" target="MITGSd_U6Hve-jwOVmn4-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-111" value="目标：具备安全事件关闭流程" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="4970" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="4960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-113" target="MITGSd_U6Hve-jwOVmn4-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-113" value="内容：提供关闭安全事件的管理 程序。" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="4970" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-115" target="MITGSd_U6Hve-jwOVmn4-116" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520" y="4960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-115" value="输出：提供 XX 公司《安全事件关闭程序》" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="4960" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-116" value="59" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="4970" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-118" target="MITGSd_U6Hve-jwOVmn4-120" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-118" value="目标：" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="5070" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-120" target="MITGSd_U6Hve-jwOVmn4-122" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-120" value="内容：" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="5070" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MITGSd_U6Hve-jwOVmn4-122" target="MITGSd_U6Hve-jwOVmn4-123" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-122" value="输出：" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="5070" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MITGSd_U6Hve-jwOVmn4-123" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="5070" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="4955" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-124" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MITGSd_U6Hve-jwOVmn4-8" target="MITGSd_U6Hve-jwOVmn4-67" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -567,14 +420,14 @@
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-126" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aiKESZ3UolnFo12rYkqo-13" target="MITGSd_U6Hve-jwOVmn4-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="3490" as="sourcePoint" />
-            <mxPoint x="450" y="3440" as="targetPoint" />
+            <mxPoint x="400" y="3360" as="sourcePoint" />
+            <mxPoint x="450" y="3310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MITGSd_U6Hve-jwOVmn4-127" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aiKESZ3UolnFo12rYkqo-13" target="MITGSd_U6Hve-jwOVmn4-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="3490" as="sourcePoint" />
-            <mxPoint x="450" y="3440" as="targetPoint" />
+            <mxPoint x="400" y="3360" as="sourcePoint" />
+            <mxPoint x="450" y="3310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-42" value="" style="edgeStyle=none;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-43" target="pYFIHHgyRtIw1Ulqz15v-45" edge="1">
@@ -596,61 +449,61 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-50" value="目的：告知客户抑制措施可能存在的风险" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="2800" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="2790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-51" value="" style="edgeStyle=none;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-52" target="pYFIHHgyRtIw1Ulqz15v-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-52" value="工作内容：在采取抑制措施之前，应告知客户可能存在的风险，形成记录" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="2800" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="2790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-54" value="输出:&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;XX &lt;/span&gt;&lt;span&gt;项目《应急响应服务风险告知记录》&lt;/span&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="2795" width="120" height="70" as="geometry" />
+          <mxGeometry x="720" y="2785" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-56" value="" style="edgeStyle=none;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-57" target="pYFIHHgyRtIw1Ulqz15v-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-57" value="目的：我司变更抑制处理方案时应获得客户授权" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="2910" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="2890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-58" value="" style="edgeStyle=none;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-59" target="pYFIHHgyRtIw1Ulqz15v-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-59" value="工作内容：我司需&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;严格执行抑制处理方案中规定的内容，&lt;/font&gt;&lt;/span&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;如有必要更改，须获得客户的授权。&lt;/font&gt;&lt;/span&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="2900" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="2880" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-61" value="输出:&lt;span style=&quot;font-size: 10.5pt ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;《系统变更管理办法》&lt;/font&gt;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="2915" width="120" height="50" as="geometry" />
+          <mxGeometry x="720" y="2895" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-63" value="" style="edgeStyle=none;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-64" target="pYFIHHgyRtIw1Ulqz15v-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-64" value="目的：制定抑制处理方案" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="3050" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="3010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-65" value="" style="edgeStyle=none;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-66" target="pYFIHHgyRtIw1Ulqz15v-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-66" value="工作内容：明确抑制措施内容：&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;抑制措施应能够限制受攻击的范围，抑&lt;/span&gt;&lt;span&gt;制潜在的或进一步的攻击和破坏行为&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="3030" width="120" height="100" as="geometry" />
+          <mxGeometry x="520" y="2990" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-68" value="输出:《抑制处理方案》" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="3055" width="120" height="50" as="geometry" />
+          <mxGeometry x="720" y="3015" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-70" value="" style="edgeStyle=none;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-71" target="pYFIHHgyRtIw1Ulqz15v-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-71" value="目的：我司&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;应使用可信的工具进行安&lt;/font&gt;&lt;/span&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;全事件的抑制处理&lt;/font&gt;&lt;/span&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="3210" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="3130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-72" value="" style="edgeStyle=none;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-73" target="pYFIHHgyRtIw1Ulqz15v-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-73" value="工作内容：我司需&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;使用可信的工具进行安&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;全事件的抑制处理，不得使用受害系统&lt;/span&gt;&lt;span&gt;已有的不可信文件。&lt;/span&gt;&lt;/font&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="3200" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="3120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-75" value="输出:&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;《主要网络安全事件处理工具清单》&lt;/font&gt;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="3210" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="3130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-77" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-82" target="pYFIHHgyRtIw1Ulqz15v-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -676,49 +529,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-84" value="&lt;font style=&quot;font-size: 12px&quot;&gt;目标：我司建立有完善的检测技术规&lt;span&gt;范及具有对高技术入侵的检测技术能&lt;/span&gt;&lt;span&gt;力。&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="2250" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="2080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-86" target="pYFIHHgyRtIw1Ulqz15v-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-86" value="工作内容：我司需制定&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;相关技术检测规范，同时相关技术人员需展示检测高&lt;/span&gt;&lt;span&gt;技术入侵的能力&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="525" y="2240" width="115" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pYFIHHgyRtIw1Ulqz15v-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-88" target="pYFIHHgyRtIw1Ulqz15v-111" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520" y="2070" width="115" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-88" value="&lt;font style=&quot;font-size: 12px&quot;&gt;输出：提供XX 应急响应技术检测规范；提供&lt;span&gt;技术入侵检测的模拟环境设备清单&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="2210" width="120" height="100" as="geometry" />
+          <mxGeometry x="721" y="2060" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-90" target="pYFIHHgyRtIw1Ulqz15v-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-90" value="&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;目标：&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;对发生异常的系统进行信息的收集与分&lt;/span&gt;析&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1300" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-92" target="pYFIHHgyRtIw1Ulqz15v-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-92" value="工作内容：对客户发生异常的系统进行信息的收集与分析，判断是否发生了安全事件；若产生了安全事件，则协助客户确定安全事件等级并做记录" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1260" width="120" height="140" as="geometry" />
+          <mxGeometry x="520" y="1280" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-94" value="&lt;font&gt;&lt;font&gt;输出：XX项目《安全事件检测过程记录》；&lt;font style=&quot;font-size: 12px&quot;&gt;&amp;nbsp;XX 项目《XX 事件应急响应过程记录》，事件定级为 XX&lt;/font&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="1270" width="120" height="105" as="geometry" />
+          <mxGeometry x="720" y="1297.5" width="120" height="105" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-96" target="pYFIHHgyRtIw1Ulqz15v-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-96" value="目标：&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;提供应急处理方案&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1427.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="1457.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-98" target="pYFIHHgyRtIw1Ulqz15v-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-98" value="工作内容：&lt;font&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;与客户充分沟通，并预测应急处理方案&lt;/span&gt;可能造成的影响&lt;span style=&quot;font-size: 14px&quot;&gt;，&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;共同确定应急处理方案。&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1417.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="1447.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-100" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;输出：提供XX项目应急响应服务方案，&lt;/font&gt;&lt;span&gt;公司的《应急响应服务方案模板》；&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="1400" width="120" height="115" as="geometry" />
+          <mxGeometry x="720" y="1442.5" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-102" target="pYFIHHgyRtIw1Ulqz15v-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -735,107 +585,80 @@
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-106" value="输出：XX项目《安全事件检测方案》" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="721" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pYFIHHgyRtIw1Ulqz15v-111" value="31" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="2250" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-113" target="pYFIHHgyRtIw1Ulqz15v-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-113" value="目标：我司的&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;检测工作在客户的监督与配合下完&lt;/span&gt;&lt;span&gt;成&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1600" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-115" target="pYFIHHgyRtIw1Ulqz15v-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-115" value="&lt;font&gt;工作内容：我司的&lt;span style=&quot;font-size: 12px&quot;&gt;应急响应服务项目的检测工作均由项目甲方人员监督配&lt;/span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;合下完成&lt;/font&gt;&lt;span&gt;。&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1590" width="120" height="75" as="geometry" />
+          <mxGeometry x="520" y="1552.5" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-117" value="&lt;font style=&quot;font-size: 12px&quot;&gt;输出：&lt;span&gt;应急处理工作流程或其他文档中约&lt;/span&gt;&lt;span&gt;定的工作配合&lt;/span&gt;&lt;span&gt;/&lt;/span&gt;&lt;span&gt;监督机制；相关过程监督&lt;/span&gt;&lt;span&gt;记录&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="1560" width="120" height="110" as="geometry" />
+          <mxGeometry x="720" y="1535" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-120" target="pYFIHHgyRtIw1Ulqz15v-122" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-120" value="目标：我司&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;建立针对常规应用&lt;/span&gt;&lt;span&gt;系统、安全设备、常见网络与信息安全&lt;/span&gt;&lt;span&gt;事件的检测技术规范&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="2080" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="1960" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-122" target="pYFIHHgyRtIw1Ulqz15v-124" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-122" value="工作内容：我司需&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;针对常规应用&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;系统、安全设备、常见网络与信息安全&lt;/span&gt;&lt;span&gt;事件制定相应的检测技术规范&lt;/span&gt;&lt;/font&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="525" y="2080" width="115" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="pYFIHHgyRtIw1Ulqz15v-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-124" target="pYFIHHgyRtIw1Ulqz15v-126" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520" y="1960" width="115" height="79" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-124" value="输出：&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;公司《应急响应操作规范》&lt;/span&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="2089" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pYFIHHgyRtIw1Ulqz15v-125" value="" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-126" target="pYFIHHgyRtIw1Ulqz15v-161" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pYFIHHgyRtIw1Ulqz15v-126" value="27" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="2089" width="120" height="60" as="geometry" />
+          <mxGeometry x="721" y="1969" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-128" target="pYFIHHgyRtIw1Ulqz15v-130" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-128" value="目标：提供&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;应急响应服务方案&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1811.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="1767" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-130" target="pYFIHHgyRtIw1Ulqz15v-132" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-130" value="&lt;div&gt;工作内容：1.&lt;font&gt;应急处理方案中应明确检测范围与检测行为规范，其检测范围应仅限于客户已授权的与安全事件相关的数据，对客户的机密性数据信息未经授权不得访问。2.应急处理方案应包含对安全事件的抑制、根除和恢复的详细处理步骤。3.应急处理方案应包含实施方案失败的应变和回退措施。4.&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;应急处理方案中应对可能&lt;/span&gt;&lt;span&gt;造成的影响进行分析，包括社会影响&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;。&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="525" y="1700" width="115" height="283" as="geometry" />
+          <mxGeometry x="520" y="1660.5" width="115" height="273" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-132" value="输出：XX项目应急响应服务方案" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="1801" width="120" height="80" as="geometry" />
+          <mxGeometry x="720" y="1763.5" width="120" height="67" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-136" target="pYFIHHgyRtIw1Ulqz15v-138" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-136" value="目标：我&lt;font&gt;司&lt;span style=&quot;font-size: 12px&quot;&gt;具有挖掘系统设备及业务&lt;/span&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;系统安全漏洞的能力。&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="2380" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="2210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-138" target="pYFIHHgyRtIw1Ulqz15v-140" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-138" value="工作内容：我司需具有挖掘系统设备及业务系统安全漏洞的能力，需要&lt;font style=&quot;font-size: 12px&quot;&gt;提供相关漏洞的证明，包括漏洞平台&lt;span&gt;的发布、漏洞库编号等。&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="525" y="2350" width="115" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="pYFIHHgyRtIw1Ulqz15v-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-140" target="pYFIHHgyRtIw1Ulqz15v-141" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520" y="2180" width="115" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-140" value="输出：&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;提供中国国家信息安全漏洞库信息安全漏洞提交证明 &lt;/span&gt;&lt;span&gt;X&lt;/span&gt;&lt;span&gt;份&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10.5pt ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="2340" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="pYFIHHgyRtIw1Ulqz15v-141" value="32" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="2380" width="120" height="60" as="geometry" />
+          <mxGeometry x="721" y="2190" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-143" target="pYFIHHgyRtIw1Ulqz15v-145" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-143" value="目标：我司&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;对确认的安全事件启动安&lt;/span&gt;&lt;span&gt;全事件管理程序&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="2530" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="2340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-145" target="pYFIHHgyRtIw1Ulqz15v-147" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-145" value="工作内容：我司应制定相应的&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;安全事件管理程序文件，明确事件的启动条件和管理程序&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="527.5" y="2520" width="112.5" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pYFIHHgyRtIw1Ulqz15v-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-147" target="pYFIHHgyRtIw1Ulqz15v-149" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="522.5" y="2330" width="112.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-147" value="输出：&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;公司《信息安全事件管理程序》&lt;/span&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="2530" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pYFIHHgyRtIw1Ulqz15v-148" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-149" target="pYFIHHgyRtIw1Ulqz15v-161" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pYFIHHgyRtIw1Ulqz15v-149" value="33" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="2530" width="120" height="60" as="geometry" />
+          <mxGeometry x="721" y="2340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-150" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pYFIHHgyRtIw1Ulqz15v-159" target="pYFIHHgyRtIw1Ulqz15v-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -869,19 +692,16 @@
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-159" value="检测阶段" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="1950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pYFIHHgyRtIw1Ulqz15v-161" value="事前我司需准备文件" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="2310" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-163" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="aiKESZ3UolnFo12rYkqo-13" target="MITGSd_U6Hve-jwOVmn4-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="3500" as="sourcePoint" />
-            <mxPoint x="600" y="3650" as="targetPoint" />
+            <mxPoint x="240" y="3370" as="sourcePoint" />
+            <mxPoint x="600" y="3520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-164" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aiKESZ3UolnFo12rYkqo-13" target="MITGSd_U6Hve-jwOVmn4-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="3500" as="sourcePoint" />
-            <mxPoint x="600" y="3650" as="targetPoint" />
+            <mxPoint x="240" y="3370" as="sourcePoint" />
+            <mxPoint x="600" y="3520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pYFIHHgyRtIw1Ulqz15v-165" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aiKESZ3UolnFo12rYkqo-15" target="MITGSd_U6Hve-jwOVmn4-76" edge="1">
